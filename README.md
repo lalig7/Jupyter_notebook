@@ -1,3 +1,3 @@
 # Jupyter_notebook
-Jupyter_notebook for a graded  assignmentt on coursera.
+Jupyter_notebook for a graded assignment on Coursera.
 
